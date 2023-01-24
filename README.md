@@ -9,17 +9,11 @@ npm install
 
 Usage
 
-To connect to the ChatGPT API, you will need to pass your API key as a parameter when initializing the ChatGPT class. Once connected, you can then use the generate method to generate a response to a given prompt.
+To connect to the ChatGPT API, you will need to pass your API key as a parameter in the venv file when initializing the ChatGPT class. Once connected, you can then use the generate method to generate a response to a given prompt.
 
 Here is an example of how to use the clone:
 
-const ChatGPT = require('./chatgpt');
 
-const chatgpt = new ChatGPT('YOUR_API_KEY');
-
-chatgpt.generate('What is the meaning of life?')
-  .then(response => console.log(response))
-  .catch(error => console.error(error));
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 Limitations
