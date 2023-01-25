@@ -5,7 +5,7 @@ Installation
 
 To use this clone, you will first need to install the necessary dependencies by running the following command:
 
-npm install
+
 
 Usage
 
