@@ -1,4 +1,4 @@
-gibit_ai(ChatGPT) JavaScript Clone
+gitbit_ai(ChatGPT) JavaScript Clone
 
 This is a JavaScript clone of the popular ChatGPT language model, which allows users to interact with the model through a simple API.
 Installation
